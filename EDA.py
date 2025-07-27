@@ -190,16 +190,3 @@ plt.show()
 
 ## Find the top ten cussinse
 ff.Cuisines.value_counts().head(10).reset_index()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
